@@ -1,0 +1,12 @@
+{
+  "name": "WP-imba",
+  "homepage": "https://github.com/GDangas/test-wp-Imba",
+  "authors": [
+    "GDangas <david.kangas@solidio.se>"
+  ],
+  "description": "Wordpress Sandbox",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true
+}
